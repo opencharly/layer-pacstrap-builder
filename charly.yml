@@ -1,7 +1,5 @@
-version: 2026.232.0520
 pacstrap-builder:
     candy:
-        version: 2026.162.1200
         description: |
             Bootstrap a bootable Arch/CachyOS rootfs via pacstrap, partition the disk, and install grub.
             Tools needed to bootstrap an Arch-family rootfs from scratch via
