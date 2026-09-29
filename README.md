@@ -45,6 +45,8 @@ It is used as the builder for the `arch-pacstrap`, `cachyos-pacstrap` and
 
 ## Related
 
+- Closest family skill: `/charly-distros:cachyos-pacstrap-builder` — the nearest owning procedure; this
+  repo carries no `skill:` entity of its own.
 - `/charly-distros:cachyos-pacstrap-builder` — a canonical consumer image.
 - `/charly-vm:cachyos-bootstrap-vm` — the VM that uses this builder.
 - `/charly-image:layer` — candy authoring reference.
